@@ -14,4 +14,4 @@
 
 本工具基于 MIT 开源协议发布，用户可根据自身需求自由修改和扩展功能！
 
-![](image.png|align=left)
+![](image.png)
