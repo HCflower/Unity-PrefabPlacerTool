@@ -11,4 +11,6 @@
 
 本工具基于 MIT 开源协议发布，用户可根据自身需求自由修改和扩展功能！
 
+演示地址：【Unity 预制体摆放工具】 https://www.bilibili.com/video/BV1x1CABhEfF/?share_source=copy_web&vd_source=4f608f23b534a90172d58411a4c32238
+
 ![](image.png)
